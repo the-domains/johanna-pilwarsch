@@ -1,0 +1,55 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Johanna Pilwarsch
+layout_spectrum: 0.8664527232758701
+typography_spectrum: 0.9719522902742028
+color:
+  brandStrength: 0.30010350118391216
+  lightness: 0.9731200598180294
+  saturation: 0.32823080639354885
+  rhythmicContrast: 0.012176428688690066
+  brandColors:
+    - '#CFC291'
+    - '#FFF6C5'
+    - '#A1E8D9'
+    - '#FF712C'
+    - '#695D46'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/33a99353-9f21-4272-92bb-eca4c03a0033.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/33a99353-9f21-4272-92bb-eca4c03a0033.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+title: Johannas Geburten
+description: meine babies
+github: true
+content_rating:
+  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5992fde-3abf-4e29-b805-445c8770a30f.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff80b671-53b8-45ab-85f5-d3449dcde93c.png

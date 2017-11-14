@@ -4,9 +4,9 @@
         <description><![CDATA[Johannas Geburten]]></description>
         <link>https://thegrid.ai/johanna-pilwarsch/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 14 Nov 2017 13:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2017 13:23:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/johanna-pilwarsch/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 14 Nov 2017 13:21:58 GMT</pubDate>
+        <pubDate>Tue, 14 Nov 2017 13:23:01 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f60fb30d-8cf2-4a58-94ac-0bd61bc751fd.jpg">,<p>neues Baby</p>]]></description>
@@ -20,6 +20,13 @@
             <link>https://airtable.com/shrcm72Vrz4Z1Cpd3</link>
             <guid isPermaLink="false">895b85b9-c262-45f9-b8bf-f5c37d90d160</guid>
             <pubDate>Tue, 14 Nov 2017 12:37:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/f47bcd99e4c94c07bcb0c450c2bb0ae6/croprotate.jpg?cropheight=650&cropwidth=944&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F07eba81c-8727-49df-9dbd-37407bd8a08c.jpg&x=16&y=0">,<p>zur Tabelle</p>]]></description>
+            <link>https://airtable.com/shrDb2e370rcYJii0</link>
+            <guid isPermaLink="false">f517ee8d-1723-48e3-aafb-20f1c952bcb6</guid>
+            <pubDate>Tue, 14 Nov 2017 13:22:27 GMT</pubDate>
         </item>
     </channel>
 </rss>

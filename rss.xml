@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Johannas Geburten]]></title>
+        <description><![CDATA[Johannas Geburten]]></description>
+        <link>https://thegrid.ai/johanna-pilwarsch/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 14 Nov 2017 13:01:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/johanna-pilwarsch/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 14 Nov 2017 13:01:08 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f60fb30d-8cf2-4a58-94ac-0bd61bc751fd.jpg">,<p>neues Baby</p>]]></description>
+            <link>https://airtable.com/shrzTNaAu4na8gf6p</link>
+            <guid isPermaLink="false">1facede4-f017-4bab-a183-58ed3c3dd133</guid>
+            <pubDate>Tue, 14 Nov 2017 12:37:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e1aa59d-12bc-4ef4-9d47-04e4d6a31d3c.jpg">,<p>meine Babies</p>]]></description>
+            <link>https://airtable.com/shrcm72Vrz4Z1Cpd3</link>
+            <guid isPermaLink="false">895b85b9-c262-45f9-b8bf-f5c37d90d160</guid>
+            <pubDate>Tue, 14 Nov 2017 12:37:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
